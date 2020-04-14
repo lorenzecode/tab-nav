@@ -1,6 +1,6 @@
 # TAB NAV
 
-### Using Only < HTML | CSS />
+### Simple Using Only < HTML | CSS />
 
 Code in my CodePen and GitHub
 
@@ -8,9 +8,9 @@ Thanks for watching
 
 The best is yet to come!
 
-## Video [YouTube](https://www.youtube.com/watch?v=VMFxhfJq_sU "YouTube")
+## Video [YouTube](https://www.youtube.com/watch?v=1nPgKdUV5Jk "YouTube")
 
-[![](https://lh3.googleusercontent.com/LPjyyU0SsIeLYkGaBRo1ij9MHJE-UYObZhA9GuvoxdTR-dfXhAF51C7dqtyJtDzKyX5dFG7QcZHZMoHF75P3Uc8HwU1h34uVLUPmVP93xQoMOVaVMATH4U3fMQEnsH-sarsVLhzL1J7jRZTGkuWJwN0RjOx1IAOePIm25P2giwx-X9ZqAOX9BA-1iyXWxV7fD4B8e3M-rfw5hCvYy7gfas6pxm4RiM_CkRfqUNAbkg40hG52xWTqWy9lkIFQJLrRVnm2O3qR16jMPUxR_wKV8J37QN-6VKF3KVidprjTPPxXZU10CA8MpETLPP8lWN2dz1ehatF9vqfFz62AFYfdwZsxwv1066YBQXFDL0V1y4bQ9do0-1GbdVA4IHdFYlRjbCvuQeG9WoTVqOk0sCri7lKo_o0FY5fCfAATP0neVRbi_bWIAD5Yeij3macOzBfZan1Tg2M-K3mSbYezHaLKugLGC7W1Pb2ClWcgz4GvVebQ_SZ84BkCLPsxsaqWpPYbcVE4oTbkNTTZ91_iwHeKOhUqqPSczJscF0wUVB6St5fgqFWFHoTSI9dpk7PL9Q7ZJINMkdOwXbC2n_fdSh8Gl5q-MKeEy1LYUvc3m3HEhPAPAp1LT8OfLsGDtPhzIMVd1UDYxuDKgMX7NyNppx5RDQZclqEqAH838EldUBV9PZu0Skfp1yNdeW0nree9=w1666-h937-no)](https://www.youtube.com/watch?v=VMFxhfJq_sU "YouTube")
+[![](https://lh3.googleusercontent.com/-nbZIo-0iNPa1bJfxbGvcqMk-vkr8_EjoUP3OH-RfsIiaWCuAnm2dGqM80p6nSlKTRRW4ToqpfHXdbUeBdsZR7FlzVve2HlORRysEB3lYbFBwwWCMD5H4QCMn9CDs5dzBlCBL8C1htkxcctjVM7djKfIPqJ6tMw-0sOo0vGZviDxrkruXSSo5HqWHXqY399NmqeFSdNZomkg_T15L3H-yvoyKkx1hMvz-thW8_bCTHsiqJIgz_myM2C-CB5_QdLdYAiJex9wloLzTEjbC4j1hLlnyOrv4U0-18uwh9IZbjIrD7jyUEAFjveRKL8PGyd9HYkZ-KCfS4qI4rcOuBL_4bT4R03-M_rKhYezOw_b_NCvsVdjzpMWW5nquNZOaBd7V0m3x31G9nH0rTZvrn9EQhGVKbtSFVxcSTqCa0TCyVpsx0WUMQHil3NBKuc2avxWhYq1VGAmahWZGiJsuXfY_dx9niN_35Qv6cGhV7YBcda70y9BFo5EDoDUuGX4uewI-TvJ-ROd1ceUYODmjN_fq-k-gKzj8fMG49j08weI6YkT8H89lKh6Km47Baw-xhe-1rSWccAaAdPGJ2JfTFaCWWp02AS8gJYLZtxHiAZg8ohcInVVrCxNoecmY1ZIE5FWMos7Gq2qnj-hGZO6Ci-WdVDg4xGENc67uWpro01hP9Pasj6uzbolkgI03tK_=w1723-h969-no)](https://www.youtube.com/watch?v=1nPgKdUV5Jk "YouTube")
 
 ### Subscriber
 
